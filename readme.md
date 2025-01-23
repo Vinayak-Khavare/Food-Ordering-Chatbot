@@ -22,7 +22,8 @@ A responsive food ordering website designed with an orange and white theme inspi
 ## Preview
 
 ### Screenshot
-![Project Screenshot](Screenshot%20(11).png)
+![Project Screenshot](Screenshot%20(19).png)
+![Project Screenshot](Screenshot%20(20).png)
 
 ### Video
 [Project Demonstration Video](Food-Ordering.mp4)
